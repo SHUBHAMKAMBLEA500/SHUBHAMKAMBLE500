@@ -48,8 +48,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SHUBHAMKAMBLE500&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
-
----
-
-### 🧠 Fun Fact
-> _"Your code should tell a story, not just solve a problem."_ ✨
