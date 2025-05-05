@@ -1,24 +1,68 @@
-# SHUBHAMKAMBLE500
-<h1 align="center">Hi 👋, I'm Shubham Kamle</h1>
-<h3 align="center">A passionate FullStack Java developer from India</h3>
+# 💫 Hi there, I'm Shubham Kamble! 👋  
+### 🚀 A Passionate FullStack Java Developer from India 🇮🇳
 
-- 🔭 I worked on project **Emotion Detection using Speech**
+![Profile views](https://komarev.com/ghpvc/?username=SHUBHAMKAMBLE500&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **FullStack Java at Vinsys**
+---
 
-- 👯 I’m looking to collaborate on **JavaFullstack projects**
-
-- Acievement NCC 'B' and 'C' Certificate holder
-
-- 💬 Ask me about **Fullstack Java**
-
-- 📫 How to reach me **Shubhamkamblea500@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/cdt.shubhamkamble1500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cdt.shubhamkamble1500" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/shubhamkamblea51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/shubhamkamblea51" height="30" width="40" /></a>
+### 🔧 Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,react,nodejs,bootstrap,mysql,postgresql,oracle,git,linux,python,c,cpp,aws,androidstudio" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> </p>
+---
+
+### 🎯 About Me
+- 🎓 Currently learning **Full Stack Java at Vinsys**
+- 🤝 Looking to collaborate on **Java Fullstack projects**
+- 🧠 Worked on a project **Emotion Detection using Speech**
+- 🏅 NCC **'B'** and **'C'** Certificate holder
+- 💬 Ask me about **Fullstack Java development**
+- 📫 Reach me at: **Shubhamkamblea500@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/cdt.shubhamkamble1500" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/shubhamkamblea51" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHUBHAMKAMBLE500&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAMKAMBLE500&theme=radical" width="47%"/>
+</p>
+
+---
+
+### 🧠 Fun Fact
+> _"Your code should tell a story, not just solve a problem."_ ✨
+
+---
+
+### 🖼️ GitHub Trophy Showcase
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHUBHAMKAMBLE500&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SHUBHAMKAMBLE500&theme=rogue" />
+</p>
+
+---
+
+### 🎬 Random Dev Meme
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400" />
+</p>
