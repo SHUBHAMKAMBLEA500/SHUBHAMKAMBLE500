@@ -36,33 +36,20 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHUBHAMKAMBLE500&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAMKAMBLE500&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHUBHAMKAMBLE500&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAMKAMBLE500&theme=radical" width="48%"/>
 </p>
 
 ---
 
-### 🧠 Fun Fact
-> _"Your code should tell a story, not just solve a problem."_ ✨
-
----
-
-### 🖼️ GitHub Trophy Showcase
+### 🏆 GitHub Trophy Showcase
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SHUBHAMKAMBLE500&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-### 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SHUBHAMKAMBLE500&theme=rogue" />
-</p>
-
----
-
-### 🎬 Random Dev Meme
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400" />
-</p>
+### 🧠 Fun Fact
+> _"Your code should tell a story, not just solve a problem."_ ✨
